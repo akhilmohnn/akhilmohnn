@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilmohnn&label=Profile%20views&color=0e75b6&style=flat" alt="akhilmohnn" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **MERN-STACK**
 
 - 💬 Ask me about **PHP,Python**
 
