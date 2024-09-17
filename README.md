@@ -18,5 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilmohnn&show_icons=true&theme=dark&locale=en" alt="akhilmohnn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilmohnn&theme=dark" alt="akhilmohnn" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=akhilmohnn&theme=gotham" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akhilmohnn&theme=gotham" alt="akhilmohnn" /></p>
