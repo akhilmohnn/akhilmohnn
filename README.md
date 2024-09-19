@@ -2,6 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilmohnn&label=Profile%20views&color=0e75b6&style=flat" alt="akhilmohnn" /> </p>
+[![wakatime](https://wakatime.com/badge/user/d22eb754-944a-44c7-93f5-80d654735d4f.svg)](https://wakatime.com/@d22eb754-944a-44c7-93f5-80d654735d4f)
 
 - 🌱 I’m currently learning **MERN-STACK**
 
