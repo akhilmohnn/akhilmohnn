@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Akhil Mohanan</h1>
-<h3 align="center">A passionate web developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilmohnn&label=Profile%20views&color=0e75b6&style=flat" alt="akhilmohnn" /> </p>
 
-- 🌱 I’m currently learning **MERN-STACK**
+### Hi there 👋 , I'm Akhil Mohanan
 
-- 💬 Ask me about **PHP,Python**
+#### Daytime Computer Science Student ☼ and Nighttime Developer ☾
 
-- 📫 How to reach me **akhilmohnn@outlook.com**
+Student at [MITS, Kochi](https://mgmits.ac.in/)  
+Learning full-stack development through [The Odin Project](https://www.theodinproject.com)
+
+- 🌱 **Currently learning**: MERN stack
+- ⚙️ **Daily tools**: `.js`, `.css`, `.sql`, `git`
+- 🌍 *Active participant in the **Linux** and **JavaScript** communities*
+- 💬 *Feel free to ask me about **web development**, **open-source**, or **Linux***
+- 🚀 *Constantly exploring new technologies and enhancing my development skills*
+- 📫 How to reach me akhilmohnn@outlook.com
 
 
 <h3 align="left">Languages and Tools:</h3>
