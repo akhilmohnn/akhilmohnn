@@ -4,7 +4,6 @@
 
 #### Daytime Computer Science Student ☼ and Nighttime Developer ☾
 
-Student at [MITS, Kochi](https://mgmits.ac.in/)  
 Learning full-stack development through [The Odin Project](https://www.theodinproject.com)
 
 - 🌱 **Currently learning**: MERN stack
