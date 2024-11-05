@@ -20,8 +20,8 @@ Learning full-stack development through [The Odin Project](https://www.theodinpr
 <h3 align="left">Github Stats:</h3>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=akhilmohnn&show_icons=true&theme=dark&locale=en" alt="akhilmohnn" style="width: 50%; height: auto; margin: 10px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=akhilmohnn&theme=gotham" alt="akhilmohnn" style="width: 50%; height: auto; margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=akhilmohnn&show_icons=true&theme=dark&locale=en" alt="akhilmohnn" style="width: 45%; height: auto; margin: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=akhilmohnn&theme=gotham" alt="akhilmohnn" style="width: 45%; height: auto; margin: 10px;" />
 </div>
 
 
