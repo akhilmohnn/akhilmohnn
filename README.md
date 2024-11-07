@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilmohnn&label=Profile%20views&color=0e75b6&style=flat" alt="akhilmohnn" /> </p>
-
 ### Hi there 👋 , I'm Akhil Mohanan
 
 #### Daytime Computer Science Student ☼ and Nighttime Developer ☾
